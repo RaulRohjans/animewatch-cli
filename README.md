@@ -4,7 +4,7 @@ This is a simple app that lets you watch anime episodes from [AnimeWatch](https:
 
 ## Installation
 
-If you are using Windows, you can just use the .exe in the [release page](https://google.com/).
+If you are using Windows, you can just use the .exe in the [release page](https://github.com/RaulRohjans/animewatch-cli/releases/tag/V1.0).
 
 To use this app you MUST have [python](https://www.python.org/) installed.
 
